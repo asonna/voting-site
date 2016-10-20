@@ -1,0 +1,23 @@
+#minors {
+  display: none;
+}
+
+#voters {
+  display: none;
+}
+
+body {
+background-color: maroon;
+color: white;
+}
+
+p {
+  font-size: 18px;
+}
+
+.row {
+  margin: 40px;
+}
+.jumbotron {
+  color: black;
+}
